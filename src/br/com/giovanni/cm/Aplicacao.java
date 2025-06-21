@@ -1,7 +1,7 @@
-package br.com.c0d3r.cm;
+package br.com.giovanni.cm;
 
-import br.com.c0d3r.cm.modelo.Tabuleiro;
-import br.com.c0d3r.cm.visao.TabuleiroConsole;
+import br.com.giovanni.cm.modelo.Tabuleiro;
+import br.com.giovanni.cm.visao.TabuleiroConsole;
 
 public class Aplicacao {
 

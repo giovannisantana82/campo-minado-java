@@ -1,6 +1,6 @@
-package br.com.c0d3r.cm.modelo;
+package br.com.giovanni.cm.modelo;
 
-import br.com.c0d3r.cm.excecao.ExplosaoException;
+import br.com.giovanni.cm.excecao.ExplosaoException;
 
 import java.util.ArrayList;
 import java.util.List;

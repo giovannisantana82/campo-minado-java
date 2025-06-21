@@ -1,8 +1,8 @@
-package br.com.c0d3r.cm.visao;
+package br.com.giovanni.cm.visao;
 
-import br.com.c0d3r.cm.excecao.ExplosaoException;
-import br.com.c0d3r.cm.excecao.SairException;
-import br.com.c0d3r.cm.modelo.Tabuleiro;
+import br.com.giovanni.cm.excecao.ExplosaoException;
+import br.com.giovanni.cm.excecao.SairException;
+import br.com.giovanni.cm.modelo.Tabuleiro;
 
 import java.util.Arrays;
 import java.util.Iterator;
