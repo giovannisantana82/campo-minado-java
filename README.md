@@ -9,7 +9,7 @@ Projeto de console seguindo a lógia do jogo Campo Minado, desenvolvido em Java 
 - Reinício de partida
 - Interface textual via console
 
-## 🚀 Como executar
+##  Como executar
 
 1. Compile os arquivos:
 
